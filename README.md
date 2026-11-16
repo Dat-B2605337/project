@@ -8,4 +8,5 @@ Sinh viên 2: TRẦN LÊ HOÀNG PHÚC - B2605370
 Sinh viên 1: Nghiên cứu và so sánh các chatbot AI, tra cứu nguồn CRAAP, viết báo cáo, thiết kế slide, xây dựng kịch bản, quay và chỉnh sửa video, tổng hợp README.md.
 
 Sinh viên 2: Nghiên cứu lịch sử chatbot AI, tra cứu và đánh giá nguồn CRAAP, viết báo cáo, thiết kế slide, xây dựng kịch bản và quay video.
-# video: https://www.youtube.com/watch?v=qRThx4lrb2M
+
+# video:https://youtu.be/df3uu9_oxZs
